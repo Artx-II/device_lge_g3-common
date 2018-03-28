@@ -49,7 +49,7 @@ PRODUCT_PROPERTY_OVERRIDES += \
     ro.use_data_netmgrd=true
 
 # Sensors
-PRODUCT_PROPERTY_OVERRIDES += \
-    debug.qualcomm.sns.daemon=e \
-    debug.qualcomm.sns.hal=e \
-    debug.qualcomm.sns.libsensor1=e
+#PRODUCT_PROPERTY_OVERRIDES += \
+#    debug.qualcomm.sns.daemon=e \
+#    debug.qualcomm.sns.hal=e \
+#    debug.qualcomm.sns.libsensor1=e
